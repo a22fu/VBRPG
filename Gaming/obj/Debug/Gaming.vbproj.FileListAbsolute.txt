@@ -1,0 +1,51 @@
+D:\Gaming\Gaming\bin\Debug\Gaming.exe.config
+D:\Gaming\Gaming\bin\Debug\Gaming.exe
+D:\Gaming\Gaming\bin\Debug\Gaming.pdb
+D:\Gaming\Gaming\bin\Debug\Gaming.xml
+D:\Gaming\Gaming\obj\Debug\Gaming.Form1.resources
+D:\Gaming\Gaming\obj\Debug\Gaming.Resources.resources
+D:\Gaming\Gaming\obj\Debug\Gaming.vbproj.GenerateResource.Cache
+D:\Gaming\Gaming\obj\Debug\Gaming.vbproj.CoreCompileInputs.cache
+D:\Gaming\Gaming\obj\Debug\Gaming.exe
+D:\Gaming\Gaming\obj\Debug\Gaming.xml
+D:\Gaming\Gaming\obj\Debug\Gaming.pdb
+D:\Gaming\Gaming\obj\Debug\Gaming.vbprojResolveAssemblyReference.cache
+F:\Gaming\Gaming\obj\Debug\Gaming.vbprojAssemblyReference.cache
+F:\Gaming\Gaming\obj\Debug\Gaming.Form1.resources
+F:\Gaming\Gaming\obj\Debug\Gaming.Resources.resources
+F:\Gaming\Gaming\obj\Debug\Gaming.vbproj.GenerateResource.cache
+F:\Gaming\Gaming\obj\Debug\Gaming.vbproj.CoreCompileInputs.cache
+F:\Gaming\Gaming\obj\Debug\Gaming.exe
+F:\Gaming\Gaming\obj\Debug\Gaming.xml
+F:\Gaming\Gaming\obj\Debug\Gaming.pdb
+F:\Gaming\Gaming\bin\Debug\Gaming.exe.config
+F:\Gaming\Gaming\bin\Debug\Gaming.exe
+F:\Gaming\Gaming\bin\Debug\Gaming.pdb
+F:\Gaming\Gaming\bin\Debug\Gaming.xml
+F:\Gaming\Gaming\obj\Debug\Gaming.Form2.resources
+C:\Users\fhy_2\Desktop\Gaming\Gaming\bin\Debug\Gaming.exe.config
+C:\Users\fhy_2\Desktop\Gaming\Gaming\bin\Debug\Gaming.exe
+C:\Users\fhy_2\Desktop\Gaming\Gaming\bin\Debug\Gaming.pdb
+C:\Users\fhy_2\Desktop\Gaming\Gaming\bin\Debug\Gaming.xml
+C:\Users\fhy_2\Desktop\Gaming\Gaming\obj\Debug\Gaming.vbprojAssemblyReference.cache
+C:\Users\fhy_2\Desktop\Gaming\Gaming\obj\Debug\Gaming.Form1.resources
+C:\Users\fhy_2\Desktop\Gaming\Gaming\obj\Debug\Gaming.Form2.resources
+C:\Users\fhy_2\Desktop\Gaming\Gaming\obj\Debug\Gaming.Resources.resources
+C:\Users\fhy_2\Desktop\Gaming\Gaming\obj\Debug\Gaming.vbproj.GenerateResource.cache
+C:\Users\fhy_2\Desktop\Gaming\Gaming\obj\Debug\Gaming.vbproj.CoreCompileInputs.cache
+C:\Users\fhy_2\Desktop\Gaming\Gaming\obj\Debug\Gaming.exe
+C:\Users\fhy_2\Desktop\Gaming\Gaming\obj\Debug\Gaming.xml
+C:\Users\fhy_2\Desktop\Gaming\Gaming\obj\Debug\Gaming.pdb
+C:\Users\fhy_2\Desktop\School or create stuff\Gaming\Gaming\bin\Debug\Gaming.exe.config
+C:\Users\fhy_2\Desktop\School or create stuff\Gaming\Gaming\bin\Debug\Gaming.exe
+C:\Users\fhy_2\Desktop\School or create stuff\Gaming\Gaming\bin\Debug\Gaming.pdb
+C:\Users\fhy_2\Desktop\School or create stuff\Gaming\Gaming\bin\Debug\Gaming.xml
+C:\Users\fhy_2\Desktop\School or create stuff\Gaming\Gaming\obj\Debug\Gaming.vbprojAssemblyReference.cache
+C:\Users\fhy_2\Desktop\School or create stuff\Gaming\Gaming\obj\Debug\Gaming.Form1.resources
+C:\Users\fhy_2\Desktop\School or create stuff\Gaming\Gaming\obj\Debug\Gaming.Form2.resources
+C:\Users\fhy_2\Desktop\School or create stuff\Gaming\Gaming\obj\Debug\Gaming.Resources.resources
+C:\Users\fhy_2\Desktop\School or create stuff\Gaming\Gaming\obj\Debug\Gaming.vbproj.GenerateResource.cache
+C:\Users\fhy_2\Desktop\School or create stuff\Gaming\Gaming\obj\Debug\Gaming.vbproj.CoreCompileInputs.cache
+C:\Users\fhy_2\Desktop\School or create stuff\Gaming\Gaming\obj\Debug\Gaming.exe
+C:\Users\fhy_2\Desktop\School or create stuff\Gaming\Gaming\obj\Debug\Gaming.xml
+C:\Users\fhy_2\Desktop\School or create stuff\Gaming\Gaming\obj\Debug\Gaming.pdb
